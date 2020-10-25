@@ -1,7 +1,7 @@
 /* This code sends data via UART from one Arduino board (controller) to another (MainBoard) to control the stepper motors and the LED illumination
  * Arduino sends the data only if there is a change in the value of the joysticks or the LED potentiometer 
  * Therefore, there is no continuous data communication between the mainboard and the controller
- * Arduino board: Adafruit ItsyBitsy 32u4 5V  
+ * Board: Arduino Pro mini 
  */
 
 #include <Wire.h> // needed for the I2C communication of the OLED, already installed in Arduino IDE
