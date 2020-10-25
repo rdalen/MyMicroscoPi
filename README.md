@@ -12,6 +12,6 @@ I used the 3D printed LEGO gears and adapters of the [original design](https://g
 So, after many hours of building pleasure, I'm going to do some nice experiments now
 
 ### Information & Documentation
-* [HackIO artikel; IBM Researcher Makes a Microscope Using LEGO, Arduino, and Raspberry Pi](https://www.hackster.io/news/ibm-researcher-makes-a-microscope-using-lego-arduino-and-raspberry-pi-cbc58cb69a20?utm_source=Hackster+Marketing&utm_campaign=7e2e7b20ec-EMAIL_CAMPAIGN_2019_02_14_02_53_COPY_01&utm_medium=email&utm_term=0_86d76c4d75-7e2e7b20ec-144680307&mc_cid=7e2e7b20ec&mc_eid=ea3c09e980)
+* [Hackster.io project; IBM Researcher Makes a Microscope Using LEGO, Arduino, and Raspberry Pi](https://www.hackster.io/news/ibm-researcher-makes-a-microscope-using-lego-arduino-and-raspberry-pi-cbc58cb69a20?utm_source=Hackster+Marketing&utm_campaign=7e2e7b20ec-EMAIL_CAMPAIGN_2019_02_14_02_53_COPY_01&utm_medium=email&utm_term=0_86d76c4d75-7e2e7b20ec-144680307&mc_cid=7e2e7b20ec&mc_eid=ea3c09e980)
 * [Github IBM/MicroscoPy](https://github.com/IBM/MicroscoPy)
 * [YouTube link MyMicroscoPi](https://youtu.be/3TL11zC14ig)
