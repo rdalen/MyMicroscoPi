@@ -5,7 +5,7 @@ My design is a remix of a great and well documented [design of Yuksel Temizon](h
 My version is also built of LEGO bricks, but uses also LEGO Technic beams because they are light and strong.
 For capturing images it uses a Raspberry Pi 3B+ with an 8MP camera and modified lens. The six stepper motors for the camera & sample movements and the power LED for illumination are controlled by two PCB's with an [Arduino Pro mini](https://www.arduino.cc/en/Guide/ArduinoProMini) on each PCB.
 * One PCB (Mainboard) contains all the driver hardware for the steppers and power LED
-* The other PCB (Controller board) contains the human interface elements for controlling the microscope. Such ase; Three joysticks to control the X, Y, Rotary, Tilt (Camera-angle), Magnitude and Focus, a Rotary encoder to control the Power LED and a small OLED display to indicate the brightness of the LED
+* The other PCB (Controller board) contains the human interface elements for controlling the microscope. Such as; Three joysticks to control the X, Y, Rotary, Tilt (Camera-angle), Magnitude and Focus, a Rotary encoder to control the Power LED and a small OLED display to indicate the brightness of the LED
 
 I used the 3D printed LEGO gears and adapters of original design of Yuksel Temizon
 
