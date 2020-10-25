@@ -8,4 +8,4 @@ One PCB (Mainboard) contains all the driver hardware for the steppers and Power 
 
 I used the 3D printed LEGO gears and adapters of original design of Yuksel Temizon
 
-So now I'm going to do some nice experiments!
+So, after many hours of building fun, I'm going to do some nice experiments now
