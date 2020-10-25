@@ -9,7 +9,7 @@ For capturing images it uses a Raspberry Pi 3B+ with an 8MP camera and modified 
 
 I used the 3D printed LEGO gears and adapters of the [original design](https://github.com/IBM/MicroscoPy)
 
-So, after many hours of building fun, I'm going to do some nice experiments now
+So, after many hours of building pleasure, I'm going to do some nice experiments now
 
 ### Information & Documentation
 * [HackIO artikel; IBM Researcher Makes a Microscope Using LEGO, Arduino, and Raspberry Pi](https://www.hackster.io/news/ibm-researcher-makes-a-microscope-using-lego-arduino-and-raspberry-pi-cbc58cb69a20?utm_source=Hackster+Marketing&utm_campaign=7e2e7b20ec-EMAIL_CAMPAIGN_2019_02_14_02_53_COPY_01&utm_medium=email&utm_term=0_86d76c4d75-7e2e7b20ec-144680307&mc_cid=7e2e7b20ec&mc_eid=ea3c09e980)
