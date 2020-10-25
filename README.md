@@ -7,7 +7,7 @@ For capturing images it uses a Raspberry Pi 3B+ with an 8MP camera and modified 
 * One PCB (Mainboard) contains all the driver hardware for the steppers and power LED
 * The other PCB (Controller board) contains the human interface elements for controlling the microscope. Such as; Three joysticks to control the X, Y, Rotary, Tilt (Camera-angle), Magnitude and Focus, a Rotary encoder to control the Power LED and a small OLED display to indicate the brightness of the power LED
 
-I used the 3D printed LEGO gears and adapters of original design of Yuksel Temizon
+I used the 3D printed LEGO gears and adapters of the [original design](https://github.com/IBM/MicroscoPy)
 
 So, after many hours of building fun, I'm going to do some nice experiments now
 
